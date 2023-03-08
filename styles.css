@@ -1,0 +1,39 @@
+<style>
+        h1 {
+            color: rgb(52, 3, 3)
+            padding: 100px 15px 25px 20px      
+
+        }
+
+        h2 {
+            color: rgb(52, 3, 3);
+            font-weight: bold;
+            font-family: Ubuntu, sans-serif;
+            border: 50px;
+            padding: 50px;
+            margin-top: 25px;
+            margin-left: 100px;
+            margin-right: 100px;
+            font-size: 1.800rem;
+            background-color: blanchedalmond;
+        }    
+
+
+
+        P1 {color: rgb(124, 124, 124);
+                font-weight: bold;
+                font-family: Ubuntu, sans-serif;
+                border: 2px;
+                padding: 30px 20px 10px 20px
+            }
+
+section {
+    width: 1000px;
+    padding: 10%;
+
+}
+
+<p1>
+
+
+
